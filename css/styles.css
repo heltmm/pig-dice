@@ -1,0 +1,12 @@
+.player2 {
+  display: none
+}
+
+body {
+  background-color: cadetblue;
+  text-align: center;
+}
+
+.topJumbo {
+  margin-top: 200px;
+}
